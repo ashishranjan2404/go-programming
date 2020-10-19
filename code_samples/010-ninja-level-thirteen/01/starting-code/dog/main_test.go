@@ -27,7 +27,7 @@ func ExampleYears() {
 	s := 7
 	xs := Years(s)
 	fmt.Println(xs)
-	// Output :
+	// Output:
 	// 49
 }
 
@@ -35,7 +35,7 @@ func ExampleYearsTwo() {
 	s := 7
 	xs := YearsTwo(s)
 	fmt.Println(xs)
-	// Output :
+	// Output:
 	// 49
 }
 
